@@ -49,13 +49,13 @@ List of Students:
 **Find by id**
 
 
-* Get comment data with id:
+Get comment data with id:
 
-https://itp405-final-node-test.herokuapp.com/api/comments/{id}
+* https://itp405-final-node-test.herokuapp.com/api/comments/{id}
 
-* Get student data with id:
+Get student data with id:
 
-https://itp405-final-node-test.herokuapp.com/api/students/{id}
+* https://itp405-final-node-test.herokuapp.com/api/students/{id}
 
 
 **Delete the Comments**
