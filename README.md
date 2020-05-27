@@ -1,11 +1,8 @@
 # StudentForum API Endpoint(NodeJS)
 [![Build Status](https://travis-ci.org/ITP405/ITP405_final_node_test.svg?branch=master)](https://travis-ci.org/ITP405/ITP405_final_node_test)
 
-## Part 1
 Built an API for the database that has been used for a "StudentForum Web" using Node. 
-
-## Part 2
-API tests for each of the 5 endpoints in Part 1. 
+Built API tests for endpoints
 
 * [StudentForum Github](https://github.com/Jaejun-Project/Student_Forum_Laravel)
 
@@ -38,13 +35,11 @@ List of Students:
 
 **Find by id**
 
-**Ex)**
-
-Get comment data with id:
+* Get comment data with id:
 
 https://itp405-final-node-test.herokuapp.com/api/comments/{id}
 
-Get student data with id:
+* Get student data with id:
 
 https://itp405-final-node-test.herokuapp.com/api/students/{id}
 
@@ -53,6 +48,7 @@ https://itp405-final-node-test.herokuapp.com/api/students/{id}
 POST: https://itp405-final-node-test.herokuapp.com/api/comments
 
 **Example from body** 
+
 {
 	"title": "Hello World",
 	"content": "this is from US"
